@@ -1,0 +1,7 @@
+interface:
+  display_name: "顶级吸引力三重奏"
+  short_description: "以自我成长、真诚沟通和边界尊重改善成年人的约会与亲密关系"
+  default_prompt: "Use $attraction-mastery-framework to diagnose my dating situation and suggest respectful, actionable next steps."
+
+policy:
+  allow_implicit_invocation: true
