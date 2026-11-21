@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-7c3aed" alt="CC BY-NC-SA 4.0"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/Agent%20Skill-Codex%20%7C%20Claude%20Code-0891b2" alt="Codex 和 Claude Code">
   <a href="https://github.com/duliangkuan/attraction-mastery-framework/commits/main"><img src="https://img.shields.io/github/last-commit/duliangkuan/attraction-mastery-framework" alt="最近提交"></a>
   <a href="https://github.com/duliangkuan/attraction-mastery-framework/stargazers"><img src="https://img.shields.io/github/stars/duliangkuan/attraction-mastery-framework?style=social" alt="GitHub Stars"></a>
@@ -121,4 +121,4 @@ git clone https://github.com/duliangkuan/attraction-mastery-framework.git "$env:
 
 Copyright © 2026 风云（GitHub 用户名 `duliangkuan`）。
 
-仓库原创文本采用 CC BY-NC-SA 4.0。署名后可非商业分享和改编，改编作品须以相同许可发布，商业使用需另行授权。第三方作品和名称的权利归各自权利人所有。[完整许可说明](LICENSE.md)
+公开版采用 MIT 许可证，允许使用、修改、分发及商用。分发副本或实质性部分时，须保留版权声明和许可文本。第三方作品和名称的权利归各自权利人所有。[MIT 许可证全文](LICENSE)
